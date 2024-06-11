@@ -9,11 +9,7 @@ The File Organizer is a script designed to help users organize files in a direct
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Dependencies](#dependencies)
-- [Configuration](#configuration)
 - [Examples](#examples)
-- [Contributors](#contributors)
-- [License](#license)
 
 ## Features
 
